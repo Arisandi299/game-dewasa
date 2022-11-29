@@ -240,3 +240,9 @@ markup:
 ignoreErrors : ["error-remote-getjson"]
 
 enableRobotsTXT : true
+
+sitemap:
+  changefreq: always
+  filename: sitemap.xml
+  priority: 1
+
