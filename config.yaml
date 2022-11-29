@@ -2,7 +2,11 @@ baseurl: https://gamedewasa.netlify.app
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
+<<<<<<< HEAD
 title: Game4you
+=======
+title: kumpulan game terbaik
+>>>>>>> 77dad74b9aacba7922d993a35a1738a2563e5d83
 
 languages:
     en:
@@ -21,7 +25,7 @@ languages:
 disqusShortname: hugo-theme-stack
 
 # GA Tracking ID
-googleAnalytics:
+googleAnalytics:G-23SPHD0EK2
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
