@@ -2,30 +2,19 @@ baseurl: https://gamedewasa.netlify.app
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: Game4you
 
 languages:
     en:
         languageName: English
-        title: Example Site
-        description: Example description
+        title: Game4you
+        description: collection the best game for you 
         weight: 1
-    zh-cn:
-        languageName: 中文
-        title: 演示站点
-        description: 演示说明
-        weight: 2
-    ar:
-        languageName: عربي
-        languagedirection: rtl
-        title: موقع تجريبي
-        description: وصف تجريبي
-        weight: 3
     id:
         languageName: Indonesia
-        title: Game&dewasa
-        description: Kumpulan game yang pasti kalian suka
-        weight: 4
+        title: Game4you 
+        description: Kumpulan game yang terbaiik untuk kamu 
+        weight: 2
 
 
 # Change it to your Disqus shortname before using
@@ -203,11 +192,11 @@ menu:
     main: []
 
     social:
-        - identifier: github
+        - identifier: youtube
           name: GitHub
           url: https://github.com/CaiJimmy/hugo-theme-stack
           params:
-              icon: brand-github
+              icon: brand-youtube
 
         - identifier: twitter
           name: Twitter
