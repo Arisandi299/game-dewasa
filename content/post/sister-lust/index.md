@@ -21,7 +21,7 @@ tags : [
     'incest'
 ]
 
-image : "https://drive.google.com/uc?export=view&id=HEXZovmNeQfIa53j1jXImQnZbAvo2HbA"
+image : "https://drive.google.com/uc?export=view&id=1HEXZovmNeQfIa53j1jXImQnZbAvo2HbA"
 ---
 
 
