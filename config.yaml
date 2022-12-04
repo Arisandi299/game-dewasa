@@ -1,8 +1,8 @@
-baseurl: https://gamedewasa.netlify.app
+baseurl: https://game4no.my.id/
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Game4you
+title: Game4no.my.id
 
 title: kumpulan game terbaik
 
@@ -10,12 +10,12 @@ title: kumpulan game terbaik
 languages:
     en:
         languageName: English
-        title: Game4you
+        title: Game4no.my.id
         description: collection the best game for you 
         weight: 1
     id:
         languageName: Indonesia
-        title: Game4you 
+        title: Game4no.my.id
         description: Kumpulan game yang terbaiik untuk kamu 
         weight: 2
 
@@ -238,3 +238,11 @@ markup:
 
 
 ignoreErrors : ["error-remote-getjson"]
+
+enableRobotsTXT : true
+
+sitemap:
+  changefreq: always
+  filename: sitemap.xml
+  priority: 1
+
